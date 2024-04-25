@@ -1,5 +1,5 @@
-Linked List Template for C
-==========================
+Double Linked List Template for C
+=================================
 
 
 Introduction
